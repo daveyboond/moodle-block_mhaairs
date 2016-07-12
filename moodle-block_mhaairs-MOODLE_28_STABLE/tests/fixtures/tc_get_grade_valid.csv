@@ -1,5 +1,0 @@
-hidden,description,source,courseinstance,courseid,itemtype,itemmodule,iteminstance,itemnumber,item_categoryid,item_courseid,item_identity_type,item_itemname,item_itemtype,item_idnumber,item_gradetype,item_grademax,item_iteminfo,item_deleted,grade_username,grade_userid,grade_rawgrade
-,Valid grade item data.,mhaairs,,tc1,manual,mhaairs,0,0,,,,testmhaairs,manual,0,1,100,,,,,
-,Source is not required.,,,tc1,manual,mhaairs,0,0,,,,testmhaairs,manual,0,1,100,,,,,
-,Incorrect itemdetail course id is ignored.,,,tc1,manual,mhaairs,0,0,,2,,testmhaairs,manual,0,1,100,,,,,
-,Incorrect itemdetail course id is ignored.,,,tc1,manual,mhaairs,0,0,,2,,testmhaairs,manual,0,1,100,,,student1,,95
